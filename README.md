@@ -1,4 +1,4 @@
-<header>
+<header>panel
 
 <!--
   <<< Author notes: Course header >>>
